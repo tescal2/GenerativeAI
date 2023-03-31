@@ -1,0 +1,420 @@
+prompt: A fantastic Japanese garden environment with glossy wet river stones, pond, falling water feature, hyperdetailed with lush plants and pebbles, award winning photography, hyperrealism --ar 3:2 --test --creative --upbeta --upbeta
+--SEPERATOR--
+prompt: necropolis in front of utopian architecture underneath an apocalpytic orange storm or rain and lightening, desaturated, ultradetailed, realistic, utopian vision of life, 8k
+--SEPERATOR--
+prompt: baroque building facades made out of white sculptural stone, 8k, cinematic lighting, highly detailed, great lighting, beautiful, stunning, volumetric lighting, mist environement, architecture
+--SEPERATOR--
+prompt: extravagant futuristic naturecore luxury secluded hot tub spa and pool chamber, natural spiritual architecture environment, ornate beautiful DMT statues and architecture, tranquil psychedelia technopunk atmosphere, bisexual lighting, heavenly machinery and spiritual formations , indoor water park with bar lighting, luscious green thriving tropical flora, mandala pattern auras of light, healing symbolism, epic composition, high detail, epic composition, glowing with glistening energy and highly detailed, pleasant celestialpunk, intricate and awesome architecture artwork by Anthony J Foti, Alphonse Mucha, Akihiko Yoshida, and Studio Ghibli --ar 8700:2840
+--SEPERATOR--
+prompt: persian building facades made out of sculptural stone and corten steel, 8k, cinematic lighting, highly detailed, great lighting, beautiful, stunning, volumetric lighting, environment, mist, architecture, realistic
+--SEPERATOR--
+prompt: uture architecture interior view inside a giant space that feels like the hull of a ship, blue, magenta, pink, orange, concept art, highly detailed, beautiful scenery, cinematic, beautiful light, hyperreal, octane render, hdr, long exposure, 8K, realistic, fog, moody, --ar 16:9 --upbeta --test --creative --upbeta
+--SEPERATOR--
+prompt: a light house ,dark mood environment + cinematic, hight detail, realistic render octane, 35mm, Volumetric light, Epic, Cinematic scene, Dramatic lighting, 8K, --ar 16:9
+--SEPERATOR--
+prompt: futuristic pods, foggy, disquieting environment, death architecture, cimetary, extremely detailed setting, photorealistic, 8k
+--SEPERATOR--
+prompt: distant forest evening, lake reflection, uhd, very detail, cinematic, Unreal engine, --ar 5:3 --upbeta --test --creative
+--SEPERATOR--
+prompt: wilderness jungle, ground close up, few rocks and sand, ultrarealistec, unreal engine, 8k, --uplight
+--SEPERATOR--
+prompt: renaissance and baroquebuildign facades made out of sculptural stone and fabric, 8k, cinematic lighting, highly detailed, great lighting, beautiful, stunning, volumetric lighting, environment, mist, architecture
+--SEPERATOR--
+prompt: glowing morrowind, elderscrolls, fantasy, mushrooms, cobbled road, hills, sunset, wilderness, depth of field, landscape
+--SEPERATOR--
+prompt: atrium design, indoor, beautiful, stunning, breathtaking, mirrors, glass, magic circle, magic doorway, fantasy, mist, bioluminescence, hyper-realistic, unreal engine, pattern, fractal --ar 4:9 --test --creative --upbeta
+--SEPERATOR--
+prompt: environment gopro footage of Bangkok city Flood Crisis, years 3022,  Rainy Day, hyper realistic, cinematic, ultradetailed, render,8k, --uplight --ar 16:9 
+--SEPERATOR--
+prompt: lock at the end of the world, world on fire, black sky, abstract, octane render, fluid lines, surrealism, cubist --no people --no city --ar 18:9 --hd
+--SEPERATOR--
+prompt: the coast of Puerto Rico minimalistic architecture,interior design,in front of the beach, designed by Luis Barragán, cinematography atmosphere,4k,realistic structure,realistic landscaping, looking at the beach,sun set ocean view,wide open interior perspective,detailed interior,high detailed render
+--SEPERATOR--
+prompt: architecture of repeating of many spherical surface forms, crystalline, clear, infinite 3D pattern, large quantity, thin exoskeleton, soft glow, expansive view, full frame, clear blue sky, detailed, realistic, intricate, --ar 9:15 --upbeta --no blur --no background
+--SEPERATOR--
+prompt: Vernacular minimalistic architecture,interior design,in front of the beach, designed by Luis Barragán, cinematography atmosphere,4k,realistic structure,realistic landscaping, looking at the beach,sun set ocean view,wide open interior perspective,detailed interior,high detailed render,at San Diego California. --test --creative --upbeta
+--SEPERATOR--
+prompt: mid century modern environment of a sustainable ecosystem —q .25
+--SEPERATOR--
+prompt: taipei city with water in the streets, Ilford HP5 negative, developed in Ilfotec DD-X, photorealistic, outdoors, 28mm lens, film grain, bokeh --testp --video --ar 16:9
+--SEPERATOR--
+prompt: A small room in the ceiling, photo realistic, house, exposed beam, skylight window, clutter, lots of objects, little table under the window with a lot of objects in it, beautiful light, dust, bed, canvas and pictures on the wall, vintage wallpaper, photography, 8k, rembrandt, edouard manet, soft colors, hd, highly detailed, chair, low roof, coat hanger, cozy
+--SEPERATOR--
+prompt: open-concept home, kitchen and living room, modern vibe, houseplants, neon lighting, clocks on the walls, abstract art on walls, sunken living room, large kitchen, large windows, cozy, ar 16:9, 4k, hyper-realistic, soft lighting, houseplants everywhere --test --creative --upbeta
+--SEPERATOR--
+prompt: The car's on fire and there's no driver at the wheel and the sewers are all muddied with a thousand lonely burn-outs:: And a dark wind blows::2 photojournalism, black and white, environment, kodak, film grain
+--SEPERATOR--
+prompt: design big room filled with mirrors in the floor walls, environment, color lights, coldplay, cinematic, long shot, magical, 4k --ar 16:9
+--SEPERATOR--
+prompt: a portal inside of a starburst, inside the portal we see a ghibli style environment
+--SEPERATOR--
+prompt: cozy house interior, houseplants everywhere, futuristic couch, cool modern kitchen, amazing artwork, ambient lighting, pillows, cats, technology everywhere, photo realistic, hyper realistic, tables, bookshelves, library, artwork, soft lighting
+--SEPERATOR--
+prompt: hedge maze, sacred garden, forest, clouds, mist, magic the gathering, environment, fantasy, atmospheric, ethereal, celestial, nature, black and white, intricate details, cinematic lighting, volumetric lighting, symmetrical --ar 21:9 --s 10000  --upbeta
+--SEPERATOR--
+prompt: open concept house with clocks and artwork on the walls and houseplants everywhere, comfortable couches, tables, bookshelves, soft ambient lighting, photo realistic, mainecoon cat --test --creative --upbeta
+--SEPERATOR--
+prompt: serene garden, hedge maze, magic the gathering, environment, fantasy, atmospheric, ethereal, black and white, intricate details, cinematic lighting, volumetric lighting, symmetrical --ar 21:9 --s 10000  --upbeta
+--SEPERATOR--
+prompt: magical tiny hardworking elf world in the Transparent Jar On the Table, beautiful species, hyper realism, intricate detail , 3d render --test --creative
+--SEPERATOR--
+prompt: concept art, medieval city in a montainscape like Rivendell, waterfall, ghotic castle on the montaoin range, natural and dynamic lighting, day sky, ghibli studio style, trending on artstation, fantasy art, intricate and hight detailed, 8k --ar 21:9 --test --creative --upbeta --upbeta
+--SEPERATOR--
+prompt: mystical path within the dark deep jungle temple ruins, tropical environment, hd, 8k, ultra realistic, cinematic lighting, --test --creative --upbeta
+--SEPERATOR--
+prompt: Blade Runner, a view of an interior perspective of a roof top grungy dive bar in 2050, moody lighting, scifi Los Angeles City, interior, mood lighting,, background with skyline, environment, Syd Mead concept art, as drawn by Ian MCQue, Artstation Trending, 8k, Atmosphere, cinematic scene, digital illustration --ar 3:1 --s 1250
+--SEPERATOR--
+prompt: uturistic banks merging with digital coins, futuristic architecture, ultra realistic, professional digital art, HDR high resolution image, 8k —ar 16:9 —upbeta —upbeta --test --creative
+--SEPERATOR--
+prompt: pyschedelic environment with an overwhelmng elf population—q .25
+--SEPERATOR--
+prompt: rightly lit fancy cylindrical beautiful tall glass building at night next to trees with blue lights 4K HD realistic cinematic cyberpunk
+--SEPERATOR--
+prompt: a celestial reunion around a round square table with spirits rising in white ambient and foggy background, futuristic, 8k, hyper realistic, super detailed, octane render, hyperrealism, photographic detail, spiritual architecture --testp --creative --upbeta
+--SEPERATOR--
+prompt: tondo slum architecture, dirty shanties, filthy water, extremely detailed, ultra realistic, soft cinematic lighting, 8k, unreal engine, octane render, volumetric lighting --ar 16:9
+--SEPERATOR--
+prompt: epic landscape of a mountain island completely covered in a large militaristic fortress that is a couple hundred meters tall, future architecture, sci fi architecture, cyberpunk architecture, Blade runner architecture, cinematic lighting, Artstation Trending, 8k, Atmosphere, cinematic scene, photorealistic --ar 3:1
+--SEPERATOR--
+prompt: solarpunk city, crowded with people, flying cars, water cascade, vertical gardens, verdant walls, cyberpunk tokyo, look up, properous --testp --creative --upbeta --upbeta
+--SEPERATOR--
+prompt: indigenous people in Southern Africa, ancient rock paintings, Blombos cave, Sanscrit, Cuneiform, Hebrew writing, storm wind fire and smoke 8k, unreal engine, cinematic lighting, landscape --ar 21:9 --uplight
+--SEPERATOR--
+prompt: deepest in the abyss glowing fish, large absract corals, majestic environment, dark, a hint of light with deep blues and aqua, high detail, high resolution epic, octane render, hyperrealistic, unreal engine --ar 16:9
+--SEPERATOR--
+prompt: lush garden with plants flowers and greenery overlooking cyberpunk city daytime verdant hd cinematic lighting realistic solarpunk landscape wide angle —ar 3:1 
+--SEPERATOR--
+prompt: animation concept art, wide view in the ocean glowing fish, massive absract corals, studio ghibli style, darkfantasy art, blue lighting with accents on aqua, trending on artstation, intricate and hight detailed, 8k --ar 21:9
+--SEPERATOR--
+prompt: windship floating above a river of stars, --ar 3:4
+--SEPERATOR--
+prompt: inside the magical graden at night,landscape ,glowing tree,glowing mushroom, wide angle , 4k, 8k, ultrarealistic hyperrealistic, Cinematic colour grading --ar 16:9
+--SEPERATOR--
+prompt: the world of art Mesopotamia, and Egypt, Sanscrit Cuneiform writing eternal meeting place between humans and their gods Blombos cave a storm wind fire and smoke 8k, unreal engine, cinematic lighting, --ar 9:16 --test --creative
+--SEPERATOR--
+prompt: Brightly lit fancy cylindrical beautiful tall glass building at night next to trees with blue lights 4K HD realistic cinematic cyberpunk
+--SEPERATOR--
+prompt: interior architecture, Blade runner architecture, cinematic lighting, forest background, Syd Mead concept art, as drawn by Ian MCQue, Artstation Trending, 8k, Atmosphere, cinematic scene, digital illustration --ar 3:1 --s 1250
+--SEPERATOR--
+prompt: deepest in the abyss glowing fish, large absract corals, majestic environment, dark, deep blues and aqua, high detail, high resolution epic, octane render, hyperrealistic, unreal engine --ar 16:9
+--SEPERATOR--
+prompt: ghibli garden field solarpunk wide angle lens daytime flowers and greenery overlooking a city hd 4k —ar 16:9
+--SEPERATOR--
+prompt: Extreme Long Shot Panaroma view of pokemon island enviroment | Octane Render | PBR | Ray Tracing | Post Processing | Unreal 5 | --ar 16:9  --s 5000 --upbeta --q 2 
+--SEPERATOR--
+prompt: A high tech solarpunk utopia in the Amazon rainforest, gaudi style vertical building concept with hanging gardens, waterscapes, night, cumulus clouds, futuristic vertical city, with blue led details, parametric design gaudi buildings , realistic, functional building, architecture concept, sharp graphic, cinematic lighting, highly detailed, photorealistic, 8 k, Octane render --ar 16:9 --test --creative --stylize 2750 --s 15000 --upbeta --s 20000 --s 5000 --v 3 --upbeta --upbeta
+--SEPERATOR--
+prompt: futureistic tall building, city with high tech design, night time will neon lights,4k HD, realistic cinematic, unreal engine 5, photorealistic, Fractal Architexture highly detailed --test --creative --ar 16:9 --upbeta
+--SEPERATOR--
+prompt: rooftop bar lounge overlooking ancient greek city photograph --ar 16:9 --test --creative
+--SEPERATOR--
+prompt: ecromantik city of Giger , fractal Architexture Futuristic environment, Photorealistic, Unreal Engine 5, cinematic atmospheric,--ar 16:9 --test
+--SEPERATOR--
+prompt: rooftop garden lounge overlooking cyberpunk city dusk lights ambient glow hd realistic solarpunk 
+--SEPERATOR--
+prompt: Necronomicon city of Giger , Fractal Architexture Futuristic environment, Photorealistic, Unreal Engine 5, cinematic atmospheric, ultra realistic,--ar 16:9 --test 
+--SEPERATOR--
+prompt: night castle perched on an island overlooking a bay with palm trees, tropical plants, flowers, and waterfalls. A sailboat drifts in from the distance. Small seagulls fly by near the horizon. Stars and the Milky Way are visible above rendered —ar 9:16
+--SEPERATOR--
+prompt: the great wall in the ocean bottom, depths of the deep sea, cinematic, volumetric lighting, unreal engine --testp
+--SEPERATOR--
+prompt: castle up on a hill overlooking a cliff side beach with tropical plants, palm trees, flowers, and waterfalls rendered —ar 9:16 --test --creative
+--SEPERATOR--
+prompt: asian vast rice field with sci-fi cannons and bunkers, dead aircrafts, dead tructors, landscape, world war 1, realistic, octane render, unreal engine, cinematic --ar 16:9 --upbeta
+--SEPERATOR--
+prompt: A high tech solarpunk utopia in the Amazon rainforest, gaudi style vertical building concept with hanging gardens, waterscapes, sunrise, cumulus clouds, futuristic vertical city, with blue led details, parametric, realistic, functional building, architecture concept, sharp graphic, cinematic lighting, highly detailed, photorealistic, 8 k, Syd Mead render --ar 9:16 --q 2 --s 13000  --s 5000  --v3 --upbeta
+--SEPERATOR--
+prompt: orest undergrowth with small mushrooms, out of focus, background, blurry, photorealistic, volumetric lighting
+--SEPERATOR--
+prompt: high tech solarpunk utopia in the Amazon rainforest, gaudi style vertical building concept with hanging gardens, waterscapes, night, full moon,  cumulus clouds, futuristic gaudi vertical city, with blue led details, parametric buildings , realistic, functional building, architecture concept, sharp graphic, cinematic lighting, highly detailed, photorealistic, 8k, Octane render --ar 16:9 --test --creative --stylize 2750 --s 15000 --upbeta  --s 5000   --v3 --upbeta
+--SEPERATOR--
+prompt: a moody foggy environment inside a curvilinear space looking up at a tall open oculus with light filtering down, back-lit uplit, unreal engine --test --creative --upbeta
+--SEPERATOR--
+prompt: standing in front of futuristic domed rounded glass windowed facility building at night calm cool bright blue lighting, park trees around 4K HD realistic cyberpunk, ambient glow, cylindrical buildings in background
+--SEPERATOR--
+prompt: bioluminescent waterfall in jungle, night, bright neon moon, long exposure, cinematic photo --ar 9:16
+--SEPERATOR--
+prompt: landscape architecture concept site plan, rectangular small store plaza and parc in top view, birds eye
+--SEPERATOR--
+prompt: A massive brutalist sci fi laboratory in the foreground next to a cascading waterfall, frothy pond beneath the ground, raking sunlight, dappled sunshine, intricate details, maximalism, cinematic lighting --ar 5:2 --upbeta 
+--SEPERATOR--
+prompt: environment, my dreamy best place for my life, Syd Mead concept art, as drawn by Ian MCQue, Artstation Trending, 8k, Atmosphere, cinematic scene, digital illustration --ar 3:1 --s 1250
+--SEPERATOR--
+prompt: wide shot, futuristic city, green city, year 2100, over populated, Ultra realistic, photorealistic --ar 3:2 --upbeta
+--SEPERATOR--
+prompt: interior architecture, made morphosis architecture, hyper-realistic, cinematic lighting, forest background 
+--SEPERATOR--
+prompt: amazing landscape of island, new age planet by marc adamus, dramatic sky, dark mood,dark, ominous, beautiful dramatic lighting, landscape photography, professional photography --testp --creative --ar 16:9
+--SEPERATOR--
+prompt: the insides of a tiny house with walls made of stones and expressionist painting on the walls, the cinematic light is filtering inside trough the heavy air, dust particles, ultra detailed, hyper realistic 
+--SEPERATOR--
+prompt: aerial view, flying castle architecture, outerspace, inspirational --no people --no trees 
+--SEPERATOR--
+prompt: magine birds eye, orthographic view of a cool vfx studio office environment layout, where people would love to work at, has screening rooms, bistro, games room, lounges, 8k , unreal engine, cinematic lighting, --ar 21:9
+--SEPERATOR--
+prompt: Santa Monica Pier at night, light reflected in water, bright neon lights, crowds, ocean --no tree
+--SEPERATOR--
+prompt: exterior architecture, futuristic tiny house Made, zaha hadid style with Bamboo in a mountain on a rainy day, warm light, render, ultra detailed, hyper realistic, cinematic photo --ar 9:16
+--SEPERATOR--
+prompt: snow storm tidal wave fog abandoned city sci-fi cinematic photorealistic
+--SEPERATOR--
+prompt: Miami skyline, city, night, neon lights, fog, atmospheric, cinematic, octane render, palm trees, --ar 2:3 --testp --upbeta
+--SEPERATOR--
+prompt: lapland neon green leaf bush tree forest hill norhternlight sun bubble --test --creative
+--SEPERATOR--
+prompt: orgone energy, world, octane render, 8k, --ar 21:9
+--SEPERATOR--
+prompt: aerial view, anazasi cliff dwelling huge city among multiple caves in grand canyon, realistic high detail, 4k render
+--SEPERATOR--
+prompt: Night street lit by a street lamp, red gashes open in the sky among the darkness of night from which angels emerge on one side and demons on the other. Below the demons, who are floating, the angry mob attacking the procession of riot police who have angels above them, unreal engine, octane render, realistic, detailed, volumetric lighting, landscape, 8K, —stylize 625 —quality 5 —ar 16:9
+--SEPERATOR--
+prompt: planet Earth entering 5th dimension through cosmic portal, pearl skyline, love, transcendence, world hope, lights, cinematic lighting, epic, atmospheric lighting, wide angle, concept art, unreal engine 5, photorealistic, 3D, 4K, UHD very detailed, --ar 24:9
+--SEPERATOR--
+prompt: exterior architecture, parametric tiny house Made with Bamboo in a mountain on a rainy day, warm light, render, ultra detailed, hyper realistic, cinematic photo --ar 9:16 
+--SEPERATOR--
+prompt: modern two storey house in white in the forest, flowers in the garden, shrubs, driveway, huge glass windows --testp --upbeta
+--SEPERATOR--
+prompt: Environment blue dragon of rage in a storm of water tornadoes, volumetric light, myst, —ar 16:9 —test —creative —upbeta --upbeta
+--SEPERATOR--
+prompt: Big hill in a futuristic landscape, faint round blue planet in the sky, path leading to hill, waterfall, blue volumetric light, intricate detail, digital art, concept art, composition, rule of thirds --ar 1:1 --q 2 --s 5000 --uplight
+--SEPERATOR--
+prompt: man looking at a stream with green water flowing through a valley, the stream is polluted and dirty, the man is wearing a blue jacket and a hat, Hyperdetailed, Beautiful, Colourful, 8k, beautiful lighting, cinematic, landscape, --test --creative --ar 2:3 --s 5000 --upbeta --upbeta
+--SEPERATOR--
+prompt: purple Planet world with turquoise Minerals,the atmosphere is Green with purple biologic Elements, cinematic, dramatic, 8K, realistic, epic, highly detailed, majestic,16:9  --s 5000
+--SEPERATOR--
+prompt: antarctica, cold, sunny, snow, ice, glaciers, dome building for research, polar bears, penguins, ocean, whales, trending on artstation, concept art, voluminous light, unreal engine, highly detailed, epic
+--SEPERATOR--
+prompt: low angle, looking up, mile tall tree, tree of life, tree in the center of the world, photo realistsic, field in front, harmony, heaven, god rays, sunny skies, vanilla skies, breathtaking view, pulsing with blue light, ultra realistic, photo realistsic, octane render, center of life, flourishing, birds flying around the tree, beams of light, hope, love, tallest tree imagineable, reflection lake, reflection, waterfalls, fantasy, peace, serenity, lush land, vibrance, paradise
+--SEPERATOR--
+prompt: sasha shulgin in the lab, environment, 4k, hyper realistic, --ar 21:9
+--SEPERATOR--
+prompt: Lounge, Cyberpunk, Night Time, Neon Lights, Interior Environment, Dancing, 8k, Cinematic Shot, Symmetric, detailed --ar 2:3 --test --upbeta --upbeta --upbeta
+--SEPERATOR--
+prompt: environment perspective view of a digital tron themed carnival environment basketball, rings and games, impossible shots, multiple hoops, octane rendering, back-lit, concept art, hyper realistic --ar 4:12
+--SEPERATOR--
+prompt: Close up Futuristic Robot machine with robotic arms in huge room with 4 story high metal racks, parametric, realistic, architecture concept, sharp graphic, cinematic lighting, highly detailed, photorealistic, 8 k, Octane render --ar 16:9 --test --creative
+--SEPERATOR--
+prompt: world war of love, 4K, --ar 16:9
+--SEPERATOR--
+prompt: Nouveau and Elagant, Architectures made with Geometric Organic Fiber, Technical design , Intricate Ultra Detail, Low contrast Details, Ornate Detail, Cinematic Lighting, 8k, Concept Poster, Epic Extra wide shot, Dramatic Perspective view, hyperrealism, ornate, Victorian Catholic Church and Gothic and Baroque, , octane render, photorealistic, --ar 9:16 --test --creative
+--SEPERATOR--
+prompt: environment perspective view of a digital tron themed carnival environment unwinnable games with a basketball goal and pole that moves up and down for up to 35 feet tall, octane rendering, back-lit, concept art, hyper realistic --ar 4:12 --test --creative
+--SEPERATOR--
+prompt: interior view of old dining car on a train tables and lots of books intricate details belle epoque candlelight on a bridge over water, 8k --ar 20:10
+--SEPERATOR--
+prompt: sacred pyramid, sand maze, fantasy, magic the gathering, atmospheric, ethereal, nature, black and white, intricate details, cinematic lighting, volumetric lighting, symmetrical, environment --ar 21:9 --s 10000  --upbeta
+--SEPERATOR--
+prompt: third world slum, vertical shack architecture, surrounded by landfill debris, some floating in sewer canals, with a Disneyland Castle in the background,  photorealistic, intricate details, cool lighting --ar 16:9 --s 5000 --upbeta --test --upbeta --upbeta --upbeta
+--SEPERATOR--
+prompt: top of earth stone stairs looking down, realistic, basement, dark,  clean walls, interior, house, 8k --ar 20:10
+--SEPERATOR--
+prompt: abandoned shoes and boots retail environment, drawn in the style of Shadowfell, octane render, linear render, two point perspective, light diffusion, cinematic shading, cinematic elements --ar 16:9 --upbeta
+--SEPERATOR--
+prompt: architecture, inhabited Mars, life on Mars in 2080, scientifically supported, great sci fi atmosphere, cinematic lighting
+--SEPERATOR--
+prompt: retail environmnent Danner mannequin store interior wood fixtures light reflective concrete floors refined lighting, 8k, light diffusion, cinematic shading, brutalist architecture, --ar 21:9 --uplight
+--SEPERATOR--
+prompt: the underground city, high walls of the dome, clouds, from the spine, through the hands, a stream of an element sparkling, Looking closely with the element of a giant solar web on a vast round carpet, 96 meters in diameter, which flowed and flowed to the vessel absorbing it. Leonardo Davinci's style, extremely detailed, texture skin, distinct background, hyper-realistic picture, high-quality photo, voluminous highlight, cinematic highlight, render octane, stylize 2000, 3d, 8k, IMAX
+--SEPERATOR--
+prompt: expansive infinite sewer system in a fantasy world, quartz marble shimmering gems, epic massive interior firefly fairy-lights, 4-dimensional Escher, vibrant lush garden sunlight, caustics, hyper-detailed, unreal engine, photorealistic --ar 16:9 --no blur, dof  --v 3
+--SEPERATOR--
+prompt: architecture steampunk metal circle with ironwork floral ornaments. highly detailed, photo realistic, dark fantasy atmosphere, froggy, 8K, octane render, unreal engine, national geographic style, realistic look, 4k --stylize 20000
+--SEPERATOR--
+prompt: a black hole inside of the eye in a realistic world
+--SEPERATOR--
+prompt: Leonardo Davinci's style, Children with wings from mars playing in the sky, white clouds above a futuristic city, advanced civilization, beauty, utopia, extremely detailed, texture skin, distinct background, hyper-realistic picture, high-quality photo, voluminous highlight, cinematic highlight, render octane, stylize 2000, 3d, 8k, IMAX
+--SEPERATOR--
+prompt: xpansive infinite food bank in a fantasy world, quartz marble shimmering gems, epic massive interior firefly fairy-lights, 4-dimensional Escher, vibrant lush garden sunlight, caustics, hyper-detailed, unreal engine, photorealistic --ar 16:9 --no blur, dof  --v 3
+--SEPERATOR--
+prompt: Environnement, highway border control, Landscape, cars, cyberpunk, Octane render
+--SEPERATOR--
+prompt: a pile of larva sacks on the bottom of the ocean, photorealistic, atmosphere, cinematic, intricate details --ar 16:9 --s 5000 --upbeta --test
+--SEPERATOR--
+prompt: Jungle opening out onto a tropical beach and blue ocean, alien planets in the sky, detailed planets, sun setting, towering trees, rainforests, intricate detail, colorful flowers, hyperdetailed realism, volumetric lighting, cinematic, fantastical, landscape, awe, wonder, beauty, creative, photo realistic, highly detailed, 8K, ultradetailed, oil painting
+--SEPERATOR--
+prompt: tower of printer paper in abandoned office creative, photo realistic, highly detailed, 8K
+--SEPERATOR--
+prompt: floating island in the sky above the clouds with ruins of a tower on top, waterfalls flowing over the side into the clouds --test --creative --upbeta
+--SEPERATOR--
+prompt: a tower of old dusty hardcover books, stacked poorly, about to fall over, ultrarealistic octain render, sunbeams, volumetric light, dramatic lightning, --ar 9:16 --quality 2
+--SEPERATOR--
+prompt: intricate technical drawing of stairs in the style of da vinci, schematic blueprint of tower of pisa, old, weathered, ultra detailed, 8k --upbeta --test --creative
+--SEPERATOR--
+prompt: magical neon cyberpunk sci-fi tower floating in the sky, animation concept art, anime by studio ghibli and hayao miyazaki and makoto shinkai, hyperdetailed, intricate, extremely beautiful, vibrant, radiant, serene, ethereal, celestial, cinematic, octane render, volumetric lighting, trending on artstation, craig mullins, greg rutkowski, ultra HD, 8k --ar 9:16
+--SEPERATOR--
+prompt: A delicate realistic ornate porcelain ancient elegant fantasy elf tower with gold filigree and enamel inlay. High quality photo, product photography --testp --ar 3:4
+--SEPERATOR--
+prompt: magenta wonderland multiverse full of fluffy clouds --upbeta
+--SEPERATOR--
+prompt: a moody foggy environment inside a curvilinear space looking up at a tall open oculus with light filtering down, back-lit uplit, unreal engine
+--SEPERATOR--
+prompt: uturistic interior room, house, dark, mist environment, architectural, with a glowing sphere in the middle, the aleph, mystical, artstation style, photorealistic, render in unreal 5, octane render, cinematic look, dramatic lighting
+--SEPERATOR--
+prompt: barren wasteland landscape, highlands, desolate, highly detailed, cinematic, concept art, 8k --ar 20:10
+--SEPERATOR--
+prompt: Edinburgh, City, Scotland, lifelike, photorealisitic, intricate design, beautiful, cinematic lighting, 4k, 8k UHD, --ar 21:9
+--SEPERATOR--
+prompt: top view, front picture of a 20 meter width cascade in the middle of the jurassic park jungle, the cascade is centered in the picture, cloudy day, adventure mood, majestic view, photo 24mm, hdr, ultra high quality, —ar 16:9
+--SEPERATOR--
+prompt: Scottish Highlands, Mountains, River, lifelike, photorealisitic, intricate design, beautiful, cinematic lighting, 4k, 8k UHD, --ar 21:9
+--SEPERATOR--
+prompt: fantastic and ultra wide hyperrealistic landscape scene of boat on the sea with bioluminescence and with a sky full of stars, fantastical cinematographic escene, --ar 2:1 --test --creative
+--SEPERATOR--
+prompt: a retro futuristic bedroom with bookshelves, plants, aquarium, sunroof, sunlight, 8k, high resolution, hyper realistic, super detailed, cinematic lighting, volumetric lighting, symmetrical composition, calm environment, fantasy world
+--SEPERATOR--
+prompt: Atacama Desert, Uyuni Salt Desert, sunset, sand storm, Eryl View, Extreme Detail, Art, Landscape, Cinematic, No Picture, Trend in ArtStation, Clear Focus, Wide Frame, Unreal Engine, 8k, --ar 16:9
+--SEPERATOR--
+prompt: xpansive infinite ammo rack in a fantasy world, quartz marble shimmering gems, epic massive interior firefly fairy-lights, 4-dimensional Escher, vibrant lush garden sunlight, caustics, hyper-detailed, unreal engine, photorealistic --ar 16:9 --no blur, dof --v 3
+--SEPERATOR--
+prompt: Beautiful and peacefull room with one Beautiful Lotus in ornate vase , fractal décoration, on a Wood table , Photorealistic environment, Photorealistic, Unreal Engine 5, ultra realistic with D O F ,--ar 16:9 --test --upbeta
+--SEPERATOR--
+prompt: library in a fantasy world, quartz shimmering stone, epic massive futuristic interior, 4-dimensional Escher, vibrant lush buffet, book shelves and stairs, aquariums, caustics, hyper-detailed, unreal engine, photorealistic --ar 16:9 --no blur, dof --test --creative --upbeta
+--SEPERATOR--
+prompt: animation concept art, top view path in forestssnow, alpine, winter, white and blue lighting with accents on blue details, day sky, artgerm comic style, epic, majestic, trending on artstation, hyper detailed, 8k --ar 9:21 --test --creative
+--SEPERATOR--
+prompt: Chorus life architecture project in Bergamo but designed by MadArchitects and Zaha Hadid, parametric architecture, sweey shapes, green roofs, photorealistic, Architectural visualization, octane, 4K, moody trendy detailed render --ar 16:9 --s 5000 --upbeta
+--SEPERATOR--
+prompt: atrium design, indoor, beautiful, stunning, breathtaking, mirrors, glass, magic circle, magic doorway, fantasy, mist, bioluminescence, ultra realistic, cinematic lighting, action pose, volumetric lighting, forest background, 8k --ar 9:16 --test --creative --upbeta
+--SEPERATOR--
+prompt: sin city, lost city, Skyline of Frankfurt, 2050, cyberpunk,hyperrealistic, Commerzbank, maintower, omni tower, Unreal Engine, 3D Rendering, octane render, vivid colors, 8k, hd, noise reduction, high quality, hyper detailed
+--SEPERATOR--
+prompt: art Nouveau and baroque building made out of sculptural chocolate and candy, biomorphic parametric windows, a girl and a boy, 8k, cinematic lighting, highly detailed, great lighting, stunning, volumetric lighting, environment, mist, dali style architecture
+--SEPERATOR--
+prompt: environment, English cottage made of colourful glass instead of stone and turf roof, tree growing through centre of cottage, beautiful, fantastical, ethereal, luminescent, octane render, unreal engine, photorealistic
+--SEPERATOR--
+prompt: atrium design, indoor, beautiful, stunning, breathtaking, mirrors, glass, magic circle, magic doorway, fantasy, mist, bioluminescence, hyper-realistic, unreal engine, pattern, fractal --ar 4:9 --test --creative
+--SEPERATOR--
+prompt: enviroment cracked ground split in half, lava coming throug the ground hole, red vibe, war vibe, apocaliptyc war
+--SEPERATOR--
+prompt: A lush tropical garden environment with glossy wet river stones ,shimmering clear pond, falling water feature, hyperdetailed with colorful flowers , award winning photography, hyperrealism --ar 3:2 --test --creative --upbeta --upbeta
+--SEPERATOR--
+prompt: fourth industrial revolution, artificial intelligence, digital world, futuristic robot, humans and robots living together, quantum computing, realistic style, alphonse mucha, cinematic, richly and intricately detailed
+--SEPERATOR--
+prompt: exterior of a futuristic dojo on an alien planet, outside of design, architecture, inside a dojo for alien ninjas, peaceful, neon, futuristic, 3d render, hyperrealistic --ar 16:9 --uplight
+--SEPERATOR--
+prompt: futuristic art nouveau building facades made out of white sculptural timber and fabrics, 8k, cinematic lighting, highly detailed, great lighting, beautiful, stunning, volumetric lighting, mist environement, architecture
+--SEPERATOR--
+prompt: an industrial hospital in the backrooms --test --creative
+--SEPERATOR--
+prompt: futuristic dojo on an alien planet, dojo for alien ninjas, peaceful, neon, futuristic, architecture, 3d render, hyperrealistic --ar 16:9
+--SEPERATOR--
+prompt: huge sci-fi city with a hole in the ground, enormous hole in the middle of a city, alien civilization, highly detailed, detailed city, skyscrapers, neon horizon, neon signs, neon text in the air, neon lights, void, hdr, 8k, cinematic lighting --testp --ar  16:9
+--SEPERATOR--
+prompt: beach boardwalks, going in every direction through the environment --test --creative
+--SEPERATOR--
+prompt: A small room in the ceiling, photo realistic, house, exposed beam, skylight window, clutter, lots of objects, little table under the window with a lot of objects in it, beautiful light, dust, bed, canvas and pictures on the wall, vintage wallpaper, photography, 8k, rembrandt, edouard manet, soft colors, hd, highly detailed, chair, low roof, coat hanger, cozy 
+--SEPERATOR--
+prompt: 8k hyperrealistic desert oasis with fantasy animals, extreme details, unreal engine 5, cinematic, masterpiece --ar 3840:2160
+--SEPERATOR--
+prompt: animation concept art, medieval city in a montainscape like Rivendell, waterfall, ghotic castle on the montaoin range, natural and dynamic lighting, day sky, ghibli studio style, trending on artstation, fantasy art, intricate and hight detailed, 8k --ar 21:9 --test --creative --upbeta
+--SEPERATOR--
+prompt: Orvieto, Picasso Style, bright, futuristic and medieval, intricate urban fabric,innovative architecture, people, nature, village market, medium chaos, high detailed render, octane render, hyperrealistic, 8k --ar 16:9
+--SEPERATOR--
+prompt: Blade Runner, a view of an interior perspective of a roof top grungy dive bar in 2050, moody lighting, scifi Los Angeles City, interior, mood lighting,, background with skyline, environment, Syd Mead concept art, as drawn by Ian MCQue, Artstation Trending, 8k, Atmosphere, cinematic scene, digital illustration --ar 3:1 --s 1250
+--SEPERATOR--
+prompt: fantasy, treasure chest, coral reef, ocean, grandscale, bioluminescence, ultra detailed, 8k, cinematic lighting, unreal engine 
+--SEPERATOR--
+prompt: 8k environment black basalt and golden calcite hybrid conglomerate , clustercities infinite stories high, cyberpoetic word-and-symbol foliage in autumn , starbursts, chain reaction ignition glow patterns, raytraced reflection and refraction, IMAX quality, state-of-the-art-rendering, visionary sci-fi, gargantuan dystopia space city conglomerates, mythical, intricate, elaborate, hyperrealism, hyper detailed, by Master Visionary Painters, Dark sci-fi gothic art, cinematic lighting, visual clarity, 200mm, UHD, 32k, 16k, 8k, 3D shading, Tone Mapping, Ray Tracing Global Illumination, Diffraction Grating, Crystalline, Lumen Reflections, -ar 45:30 --test --creative --upbeta
+--SEPERATOR--
+prompt: world war battle field, no man's land, lazer cannons, fortifications, barbed steel Fench, futuristic, sci-fi, realistic, octane render, unreal engine --ar 21:9 --upbeta
+--SEPERATOR--
+prompt: oil painting, an interior view of a elf coffee shop, in the elf world, a elf bartender, botanical decoration, clock, low light environment, Edison Bulb, hyper detail, octane render, 4k --ar 21:9 --no blur
+--SEPERATOR--
+prompt: sacred garden, hedge maze, magic the gathering, environment, lush, mystic, mythic, fantasy, epic, ethereal, black and white, intricate details, cinematic lighting, volumetric lighting, symmetrical --ar 21:9 --upbeta --test --creative
+--SEPERATOR--
+prompt: architecture tower made of bubbles, crystaline clear, spherical mesh network, facade, 50mm lens, highly detailed, ultra realistic, intricate, --ar 9:15 --upbeta --no blur
+--SEPERATOR--
+prompt: in a kitchen, layer of grey ash and dust cover the interior of an abandoned bedroom, end of the world, a moonlight spills in through a gap in the dirty curtains, realistic render —ar 20:9
+--SEPERATOR--
+prompt: fire land, metal bunkers, Incinerators, lava melt, wastes, lazer cannons made of metal, realistic, octane render, landscape, unreal engine --ar 16:9 --upbeta
+--SEPERATOR--
+prompt: Spectacular Tiny Victorian Ship on the ocean in the Transparent Jar On the Table, Stormy Ocean, Interior of the Great Lab, Elaborate, Architecture and Anatomy, Cybernetics Details,Symetrical, Geometric and Parameteric Details, Precision Flat line Details, Pattern, Dark fantasy, Dark errie mood and ineffably mysterious mood, Technical design, Intricate Ultra Detail, Ornate Detail, Stylized and Futuristic and Biomorphic Details, Architectural Concept, Low contrast Details, Cinematic Lighting, 8k, by moebius, Fullshot, Epic, Fullshot, Octane render, Unreal ,Photorealistic, Hyperrealism --ar 9:16
+--SEPERATOR--
+prompt: 8k environment organic exoskeleton, titanium foam structure with smoky quartz bubbles, chaosphere, starbursts, chain reaction ignition glow patterns, raytraced reflection and refraction, IMAX quality, state-of-the-art-rendering, visionary sci-fi, gargantuan dystopia space city conglomerates, mythical, intricate, elaborate, hyperrealism, hyper detailed, by Master Visionary Painters, Dark sci-fi gothic art, cinematic lighting, visual clarity, 200mm, UHD, 32k, 16k
+--SEPERATOR--
+prompt: timber architecture, aggregation, high rise housing, futuristic, many staircases surrounding the building, stacked, higly detailed, 8k --ar 4:3
+--SEPERATOR--
+prompt: From the Roots, art by G.R. Iranna, detailed path --test --upbeta --upbeta
+--SEPERATOR--
+prompt: environment dream flying free, volumetric lighting --ar 16:9 --test --upbeta --creative
+--SEPERATOR--
+prompt: 8k environment organic exoskeleton, titanium foam structure with smoky quartz bubbles, chaosphere, starbursts, chain reaction ignition glow patterns, raytraced reflection and refraction, IMAX quality, state-of-the-art-rendering, visionary sci-fi, gargantuan dystopia space city conglomerates, mythical, intricate, elaborate, hyperrealism, hyper detailed, by Master Visionary Painters, Dark sci-fi gothic art, cinematic lighting, visual clarity, 200mm, UHD, 32k, 16k
+--SEPERATOR--
+prompt: an interior perspective of a grungy dive bar in 1968, moody lighting, New York City, interior, mood lighting, photorealistic, warm wooden floor, environment
+--SEPERATOR--
+prompt: 8k environment organic exoskeleton infinite fractal amonite Phi Golden mean spiral repeating holographicstructure, bioluminiscent structures, raytraced reflection and refraction, IMAX quality, state-of-the-art-rendering, visionary sci-fi, extreme cellular structural sculptural immersive nanoworld, mythical, intricate
+--SEPERATOR--
+prompt: animation concept art, studio ghibli + Shinkai Makoto style, amazing Alleyway between Japanese street houses of Kyoto, summer feeling, by miyazaki, Craig Mullins, nausicaa, octane render, trending on artstation, hyper detailed, cinematic --ar 9:16 --testp --creative --no watermark --upbeta
+--SEPERATOR--
+prompt: outside view of the earth globe, earth globe, cosmos, vivid colors, rainbow, space, orbit, pop art style, galaxy, atmosphere, clouds, stars, 8k, planet, universe, environments --uplight
+--SEPERATOR--
+prompt: blue and green neon fantasy library, ultra realistic, photorealism, 8k, octane render, huge, impressive, architecture
+--SEPERATOR--
+prompt: massive flying fantasy pirate ship with 240 degrees sails, landscape, horizon, sunset --ar 3840:2160
+--SEPERATOR--
+prompt: Venezia up in smoke, damaged buildings, at dawn extremely detailed + ultra-realistic + cinematic lighting by cosmicwonder + 4k + uhd + 3d + octane render + cinematic --ar 16:9 --test --creative
+--SEPERATOR--
+prompt: Futuristic Fractal City 4780, Cybernetik Fractal Architexture Megatron , Futuristic city environment , ultra high detailted street glow,glass building, pastel realistic color, fractal architecture,8K, artstation , ultra realistic --ar 16:9  --upbeta
+--SEPERATOR--
+prompt: star wars universe, outer space, ligtsabers, futuristic fantasy spaceships, planets in background, cyberpunk style, dark environment, 8k, hyperrealistic, ultra textures, unreal engine 5 --ar 3840:2160 --no blur --upbeta
+--SEPERATOR--
+prompt: night, narrow shot, world war 2, german SS, soldiers, truck
+--SEPERATOR--
+prompt: a hyper Mecha Rhino crushing on a futuristic streed, futuristic city, hyper detail, octane render, 4k, --ar 3:2deep canyon, blue mist, evening sun, highway, light trail, environment --ar 2:3 --test --creative
+--SEPERATOR--
+prompt: futuristic cobblestone Path, Ocean View, Reflection, cinematic --ar 16:9
+--SEPERATOR--
+prompt: alien world rain forest from another planet, vibrant glowing neon bioluminescent plants, professional digital art. HDR high resolution image
+--SEPERATOR--
+prompt: inside hyperrealistic future industrial factory + production line with cnc machines + sharp edges + octane render + unreal engine + realistic + color primary blue + natural lighing + 8k --ar 16:9
+--SEPERATOR--
+prompt: a city in the jungle, big avenues, very sunny, urban and modern, professionally color graded, detailed body, cinematic lighting, Volumetric lighting, photorealism, in frame, finely detailed skin, realistic skin, hyper-realism, round sharp catch light, cinematic lighting, photorealistic, photorealistic face, light coming from the side, low light and dark shadow, octane render, ultra-detailed technical precision 
+--SEPERATOR--
+prompt: The parametric hotel lobby is a sleek and modern space with plenty of natural light,  the lobby is spacious and open with a variety of seating options, the front desk is a sleek white counter with a parametric design, the walls are a light blue color with parametric patterns, the floor is a light wood color with a parametric design, the overall effect is a calm and relaxing space. occlusion, moody, sunset, concept art, octane rendering, 8k, highly detailed, concept art, highly detailed, beautiful scenery, cinematic, beautiful light, hyperreal, octane render, hdr, long exposure, 8K, realistic, fog, 50mm f2.8 --test --creative --upbeta
+--SEPERATOR--
+prompt: white, blue and red mystical train track system in a futuristic world, hyper-detailed, photorealistic, 16:9
+--SEPERATOR--
+prompt: inside a futuristic Interior design exhibition, in Chicago, IL, hyperrealism, intricate detail, 3d render,  Elaborate, Architecture, Cybernetics Details, Symetrical, Geometric and Parametric Details, Precision Flat line Details, Pattern, Technical design, Intricate Ultra Detail, Ornate Detail, Stylised and Futuristic and Biomorphic Details, Architectural Concept, Low contrast Details, Cinematic Lighting, 8k,
+--SEPERATOR--
+prompt: inside a futuristic Interior design exhibition, pizza shop, hyperrealism, intricate detail, 3d render, Elaborate, Architecture, Cybernetics Details, Symetrical, Geometric and Parametric Details, Precision Flat line Details, Pattern, Technical design, Intricate Ultra Detail, Ornate Detail, Stylised and Futuristic and Biomorphic Details, Architectural Concept, Low contrast Details, Cinematic Lighting, 8k, Epic, Octane render, Unreal, Photorealistic, Hyperrealism
+--SEPERATOR--
+prompt: island with homes on the water, shimmering black water, sunset,purple and blue sky, god rays, hyper realistic, unreal engine, raytracing, 8k
+--SEPERATOR--
+prompt: formation of the sky,  sky is splitting, the stars are falling down, environments, 8k --ar 16:9
+--SEPERATOR--
+prompt: cosmic futuristic city floating over an ocean of milky-way water with surging waves, night, otherworldly, other planet, utterly from another realm, imaginative, surrealistic, 3D rendering, octane render, unreal engine 5, extremely detailed, interlace, 8k, Lissajoux, best lighting, volumetric lighting, dramatic lighting, epic, hdr , --ar 16:9 --chaos 35 --no face, words, logos, printings, letters --test --creative --upbeta
+--SEPERATOR--
+prompt: interior of a bar full of olives and iron clad barrels, glass shelves filled with flowers, cocktail glasses on the bar, bilateral symmetry, --ar 16:9
+--SEPERATOR--
+prompt: 3d miniature diorama, colorful woolen cotton plants booming on a hovering construction crane, metal industrial construction site, dreamy silver cloud sky, fantasy map, otherworldly, other planet, imaginative, surrealistic, extremely detailed, Lissajous, interlace, 4k, 3d model, octane render, unreal engine, vanishing point, cinematic lighting, dramatic lighting, highly constrast, epic, hdr --ar 16:9 --chaos 30
+--SEPERATOR--
+prompt: inside a fantasy terrarium solarium filled viruses and bacteria, iutside the glass a star is exploding and there are colourful gases but it is safe and cozy inside the terrarium garden, Hyper realism. Intricate detail. Lovely lighting. Black light. Octane render. Artgerm. No blur. —ar 16:9 --upbeta
+--SEPERATOR--
+prompt: refugee camp in Moria on Lesvos island, photorealistic, refugees wondering around, sunny day, atmospheric, photography, natural, emotional, photorealistic, fantasy landscape, extremly detailed, 8k, --ar 16:9 --test --upbeta
+--SEPERATOR--
+prompt: lake street, urban circuit, rainy, octane, unreal engine 5, cyberpunk, Photorealistic, --ar 3:2 --testp --creative
+--SEPERATOR--
+prompt: Sprawling Arabian-style city with palace near the coast, Persian flair, a vast desert behind them, tower, minarets, miradors, arabesque, high walls, gilded domes, detailed, dramatic shadows, filmic, octane render, hyper detail, 80mm, depth of field, dramatic lighting, volumetric lighting, hyper detail, photorealistic face, unreal 5, cinematic 8k, shot on film, --iw 5 --uplight
+--SEPERATOR--
+prompt: frontier trading post surrounded by foothills, rocky environment with a gold mine in the centre and a mountains with thick gold seams rising in the background, fantasy art, cinematic, octane --test --creative
+--SEPERATOR--
+prompt: curved building cracked down the middle, facade made from transparent smooth and endless fluidity style parametric future architecture, concept art, highly detailed, beautiful scenery, cinematic, beautiful light, hyperreal, octane render, hdr, long exposure, 8K, realistic, fog, moody, gopro, --ar 16:9 --test --creative --upbeta --upbeta
+--SEPERATOR--
+prompt: Fantastical glass architecture in forest, magical whimsical dreamlike crystal, surreal, starry sky, clouds, trees and plants spreading everywhere, shining sun, lots of birds, ultra detailed, fantasy, epic light, Unreal Engine, Cinematic, 8K, masterpiece, photorealistic --ar 16:9 
+--SEPERATOR--
+prompt: rainbow crystal, environment, fullmoon, deep blacks, 600mm lens, Sony Alpha α7, epic, dramatic, cinematic lighting, high, halloween, contrast, 8k, hyperrealism, photo realistic, character design, hyper-detailed, unreal engine --ar 16:9 --test --upbeta --upbeta 
+--SEPERATOR--
+prompt: 1850's coffee shop in city street, gothic style, supper detail, glass window, a lot of plants, wood table and chair, cinematic light, neon light, realistic, wood floor, 8k, HD, --ar 16:9 --test --creative --upbeta
+--SEPERATOR--
+prompt: villa in city design by zaha hadid, with a endless narroow slide, cinematic lighting, fantasy, 8k, --ar 16:9 --test --creative --upbeta
+--SEPERATOR--
+prompt: Looking up at a family of robots inside a futuristic distribution factory with extremely high shelves, wide view, floor perspective, parametric, realistic, functional building, architecture concept, sharp graphic, cinematic lighting, highly detailed, photorealistic, 8 k, Octane render --ar 16:9
+--SEPERATOR--
+prompt: undiscovered terrain, unusual terrain, Atacama Desert, Uyuni Salt Desert, purple sunset, aerial View, Extreme Detail, Art, Landscape, Cinematic, No Picture, Trend in ArtStation, Wide Frame, Unreal Engine, 8k, --ar 16:9
+--SEPERATOR--
+prompt: expansive infinite stadium in a fantasy world, warped flooring, epic massive interior firefly fairy-lights, 4-dimensional Escher, quartz marble shimmering gems, caustics, hyper-detailed, unreal engine, photorealistic --ar 16:9 --no blur, dof --test --creative --upbeta --upbeta
+--SEPERATOR--
+prompt: inside futuristic spaceship hospital room, operating room, robotic arms, parametric, realistic, functional building, architecture concept, sharp graphic, cinematic lighting, highly detailed, photorealistic, 8 k, Octane render --ar 16:9 --test --creative
+--SEPERATOR--
+prompt: filthy studio apartment with drug serum vials all over the room, widows open, god rays, building, neon
+--SEPERATOR--
