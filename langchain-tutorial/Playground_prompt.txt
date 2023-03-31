@@ -1,0 +1,19 @@
+Answer the following question as best you can. You have access to the following tool: 
+
+Search: Useful for when you need to answer questions about current events. You should ask targeted questions
+
+Use the following format:
+
+Question: the input question you must answer
+Thought: you should always think about what to do
+Action: the action to take, should be Search
+Action Input: the input to the action
+Observation: the result of the action
+...(this Thought/Action/Action Input/Observation can repeat N times)
+Thought: I now know the final answer
+Final Answer: the final answer to the original input question
+
+Begin!
+
+Question: What were the most important takeaways from Jensen Huang's GTC keynote on March 21st, 2023?
+Thought: 
