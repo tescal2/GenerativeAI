@@ -3,7 +3,7 @@
 
 ![Screen Shot 2023-03-31 at 6 50 42 PM](https://user-images.githubusercontent.com/11755966/229252064-73092168-ce65-40e6-b1af-4f5549c9fa00.png)
 
-As of March 2023, LLM's like ChatGPT still have a knowledge cutoff date. In order to overcome this limitation, you can use a technique called Prompt chaining which links another source of information to the LLM for retrieval. The internet is a great example to supercharge an LLM with up to date information. This repository uses an application that provides `text-davinci-003` witha ccessw to the internet using Langchain. For deomnstration purposes, we limit this app to just search, however, you can certainly build more integrations such as WolframAlpha, a private database, etc. 
+As of March 2023, LLM's like ChatGPT still have a knowledge cutoff date. In order to overcome this limitation, you can use a technique called Prompt chaining which links another source of information to the LLM for retrieval. The internet is a great example to supercharge an LLM with up to date information. This repository uses an application that provides `text-davinci-003` with access to the internet using Langchain. For deomnstration purposes, we limit this application to just search, however, you can certainly build more integrations such as WolframAlpha, a private database, etc. 
 
 **Execution:**
 
