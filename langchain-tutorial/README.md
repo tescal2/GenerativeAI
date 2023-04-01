@@ -3,7 +3,7 @@
 
 ![Screen Shot 2023-03-31 at 6 50 42 PM](https://user-images.githubusercontent.com/11755966/229252064-73092168-ce65-40e6-b1af-4f5549c9fa00.png)
 
-As of March 2023, LLM's like ChatGPT still have a knowledge cutoff date. In order to overcome this limitation, you can use a technique called Prompt chaining which links another source of information to the LLM for retrieval. The internet is a great example to supercharge an LLM with up to date information. This repository uses an application that provides text-davinci-003 witha ccessw to the internet using Langchain. For deomnstration purposes, we limit this app to just search, however, you can certainly build more integrations such as WolframAlpha, a private database, etc. 
+As of March 2023, LLM's like ChatGPT still have a knowledge cutoff date. In order to overcome this limitation, you can use a technique called Prompt chaining which links another source of information to the LLM for retrieval. The internet is a great example to supercharge an LLM with up to date information. This repository uses an application that provides `text-davinci-003` witha ccessw to the internet using Langchain. For deomnstration purposes, we limit this app to just search, however, you can certainly build more integrations such as WolframAlpha, a private database, etc. 
 
 **Execution:**
 
@@ -39,7 +39,7 @@ The OpenAI playground will allow us to better understand the prompting instructi
 
 ![Screen Shot 2023-03-31 at 7 14 29 PM](https://user-images.githubusercontent.com/11755966/229255720-b2995a22-0313-4b52-8fbb-3a84a0230d17.png)
 
-The LLM understands that it should first do a search in order to find out what the most important takeaways were. Given the instruction, it provides an `Action: Search` and `Action Input: Jensen Huang GTC keynote March 21st 2023`. The agent assumes this responsiblity through a python script that runs the search using the Serper API tool.
+The LLM understands that it should first do a search in order to find out what the most important takeaways were. Given the instruction prompt, it provides an `Action: Search` and `Action Input: Jensen Huang GTC keynote March 21st 2023`. The agent assumes this responsiblity through a python script that runs the search using the Serper API tool. The agent will then parse the API response from the internet and amend the instruction prompt with the search result. The agent sends this updated insuctrion prompt back to the LLM in which the final response is generated back to the user. 
 
 
 
